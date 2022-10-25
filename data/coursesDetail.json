@@ -5,59 +5,72 @@
          "name":"Web development course",
          "img":"https://www.designveloper.com/wp-content/uploads/2022/05/what-web-development-is.webp",
           "price":"14.6",
-          "teacher":"Jhankar Mahbub"
-  
+          "teacher":"Jhankar Mahbub",
+          "details":""
       },
         
       {
-        "_id":"aa11",
+        "_id":"bb22",
         "course_id":"02",
          "name":"Algorithms and data structures",
          "img":"http://www.mycslab.in/wp-content/uploads/2020/01/1214005f6e5f8cf0b48bc88f70dc3e7a-rimg-w2560-h1440-gmir-1024x576.jpg",
           "price":"14.6",
-          "teacher":"Jhankar Mahbub"
+          "teacher":"Jhankar Mahbub",
+          "details":""
       },
       {
+        "_id":"cc33",
         "course_id":"03",
          "name":"Databases, networks",
          "img":"https://www.syloe.com/wp-content/uploads/2022/01/image_infrastructure_informatique.png",
           "price":"14.6",
-          "teacher":"Jhankar Mahbub"
+          "teacher":"Jhankar Mahbub",
+          "details":""
       },
       {
+        "_id":"dd44",
         "course_id":"04",
          "name":"Agile software projects",
          "img":"https://reqtest.com/wp-content/uploads/2019/02/Agile-methodology_400_resized.jpeg",
           "price":"14.6",
-          "teacher":"Jhankar Mahbub"
+          "teacher":"Jhankar Mahbub",
+          "details":""
       },
       {
+        "_id":"ee55",
         "course_id":"05",
          "name":"Computer security",
          "img":"https://www.digitaluppercut.com/wp-content/uploads/2018/03/network-security.jpg",
           "price":"14.6",
-          "teacher":"Jhankar Mahbub"
+          "teacher":"Jhankar Mahbub",
+          "details":""
       },
       {
+        "_id":"ff66",
         "course_id":"06",
          "name":"Data science",
          "img":"https://imageio.forbes.com/specials-images/imageserve/615a844b0e678d9d11c5fc26/0x0.jpg?format=jpg&width=1200",
           "price":"14.6",
-          "teacher":"Jhankar Mahbub"
+          "teacher":"Jhankar Mahbub",
+          "details":""
       },
       {
+        "_id":"gg77",
         "course_id":"07",
          "name":"Artificial intelligence",
          "img":"https://www.simplilearn.com/ice9/free_resources_article_thumb/Advantages_and_Disadvantages_of_artificial_intelligence.jpg",
           "price":"14.6",
-          "teacher":"Jhankar Mahbub"
+          "teacher":"Jhankar Mahbub",
+          "details":""
       },
       {
+        "_id":"hh88",
         "course_id":"08",
          "name":"Natural language processing",
          "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ndeMOtF3W5oceh8A0DxeI3kDVAB0T-fxrUjx8BEXNg7te3UJPPYHvYMNOCoVjFyK1d0&usqp=CAU",
           "price":"14.6",
-          "teacher":"Jhankar Mahbub"
+          "teacher":"Jhankar Mahbub",
+          "details":""
       }
     
 ]
