@@ -6,7 +6,7 @@
          "img":"https://www.designveloper.com/wp-content/uploads/2022/05/what-web-development-is.webp",
           "price":"14.6",
           "teacher":"Jhankar Mahbub",
-          "details":""
+          "details":" Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services. A more comprehensive list of tasks to which Web development commonly refers, may include Web engineering, Web design, Web content development, client liaison, client-side/server-side scripting, Web server and network security configuration, and e-commerce development."
       },
         
       {
@@ -16,7 +16,7 @@
          "img":"http://www.mycslab.in/wp-content/uploads/2020/01/1214005f6e5f8cf0b48bc88f70dc3e7a-rimg-w2560-h1440-gmir-1024x576.jpg",
           "price":"14.6",
           "teacher":"Jhankar Mahbub",
-          "details":""
+          "details":" A data structure is a method of organizing data in a virtual system. Think of sequences of numbers, or tables of data: these are both well-defined data structures. An algorithm is a sequence of steps executed by a computer that takes an input and transforms it into a target output.Together, data structures and algorithms combine and allow programmers to build whatever computer programs they like. Deep study into data structures and algorithms ensures well-optimized and efficient code."
       },
       {
         "_id":"cc33",
@@ -25,7 +25,7 @@
          "img":"https://www.syloe.com/wp-content/uploads/2022/01/image_infrastructure_informatique.png",
           "price":"14.6",
           "teacher":"Jhankar Mahbub",
-          "details":""
+          "details":" Network database management systems (Network DBMSs) are based on a network data model that allows each record to have multiple parents and multiple child records. A network database allows flexible relationship model between entities.There are several types of database management systems such as relational, network, graph, and hierarchical. The following diagram represents a network data model that shows that the Stores entity has relationship with multiple child entities and the Transactions entity has relationships with multiple parent entities. In other words, a network database model allows one parent to have multiple child record sets and each record set can be linked to multiple nodes (parents) and children."
       },
       {
         "_id":"dd44",
@@ -34,7 +34,7 @@
          "img":"https://reqtest.com/wp-content/uploads/2019/02/Agile-methodology_400_resized.jpeg",
           "price":"14.6",
           "teacher":"Jhankar Mahbub",
-          "details":""
+          "details":" Agile software development also referred to simply as Agile is a type of development methodology that anticipates the need for flexibility and applies a level of pragmatism to the delivery of the finished product. Agile software development requires a cultural shift in many companies because it focuses on the clean delivery of individual pieces or parts of the software and not on the entire application. Benefits of Agile include its ability to help teams in an evolving landscape while maintaining a focus on the efficient delivery of business value. The collaborative culture facilitated by Agile also improves efficiency throughout the organization as teams work together and understand their specific roles in the process. Finally, companies using Agile software development can feel confident that they are releasing a high-quality product since testing is performed throughout development, providing the opportunity to make changes as needed and alert teams to any potential issues."
       },
       {
         "_id":"ee55",
@@ -43,7 +43,7 @@
          "img":"https://www.digitaluppercut.com/wp-content/uploads/2018/03/network-security.jpg",
           "price":"14.6",
           "teacher":"Jhankar Mahbub",
-          "details":""
+          "details":" Computer security refers to protecting and securing computers and their related data, networks, software, hardware from unauthorized access, misuse, theft, information loss, and other security issues. The Internet has made our lives easier and has provided us with lots of advantages but it has also put our systems security at risk of being infected by a virus, of being hacked, information theft, damage to the system, and much more.Technology is growing day by day and the entire world is in its grasp. We cannot imagine even a day without electronic devices around us. With the use of this growing technology, invaders, hackers and thieves are trying to harm our computers security for monetary gains, recognition purposes, ransom demands, bullying others, invading into other businesses, organizations, etc. In order to protect our system from all these risks, computer security is important."
       },
       {
         "_id":"ff66",
