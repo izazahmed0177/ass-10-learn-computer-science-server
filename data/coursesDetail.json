@@ -52,7 +52,7 @@
          "img":"https://imageio.forbes.com/specials-images/imageserve/615a844b0e678d9d11c5fc26/0x0.jpg?format=jpg&width=1200",
           "price":"14.6",
           "teacher":"Jhankar Mahbub",
-          "details":""
+          "details":" Data science is an essential part of many industries today, given the massive amounts of data that are produced, and is one of the most debated topics in IT circles. Its popularity has grown over the years, and companies have started implementing data science techniques to grow their business and increase customer satisfaction. In this article, well learn what data science is, and how you can become a data scientist.Data science is the domain of study that deals with vast volumes of data using modern tools and techniques to find unseen patterns, derive meaningful information, and make business decisions. Data science uses complex machine learning algorithms to build predictive models."
       },
       {
         "_id":"gg77",
@@ -61,7 +61,7 @@
          "img":"https://www.simplilearn.com/ice9/free_resources_article_thumb/Advantages_and_Disadvantages_of_artificial_intelligence.jpg",
           "price":"14.6",
           "teacher":"Jhankar Mahbub",
-          "details":""
+          "details":" Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving.The ideal characteristic of artificial intelligence is its ability to rationalize and take actions that have the best chance of achieving a specific goal. A subset of artificial intelligence is machine learning (ML), which refers to the concept that computer programs can automatically learn from and adapt to new data without being assisted by humans. Deep learning techniques enable this automatic learning through the absorption of huge amounts of unstructured data such as text, images, or video."
       },
       {
         "_id":"hh88",
@@ -70,7 +70,7 @@
          "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ndeMOtF3W5oceh8A0DxeI3kDVAB0T-fxrUjx8BEXNg7te3UJPPYHvYMNOCoVjFyK1d0&usqp=CAU",
           "price":"14.6",
           "teacher":"Jhankar Mahbub",
-          "details":""
+          "details":" Natural language processing (NLP) refers to the branch of computer science—and more specifically, the branch of artificial intelligence or AI—concerned with giving computers the ability to understand text and spoken words in much the same way human beings can.NLP combines computational linguistics—rule-based modeling of human language—with statistical, machine learning, and deep learning models. Together, these technologies enable computers to process human language in the form of text or voice data and to understand its full meaning, complete with the speaker or writers intent and sentiment."
       }
     
 ]
